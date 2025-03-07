@@ -37,7 +37,7 @@ public class Operadores{
         g-=5; // g = g - 5 = 5
         g/=5; // g = g / 5 = 2
         g*=5; // g = g * 5 = 50
-        g%=5; // g = g % 5 = 0
+        g%=5; // g = g % 5 =
         
 
     }
