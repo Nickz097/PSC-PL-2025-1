@@ -1,4 +1,4 @@
-public class Operadores{
+/* public class Operadores{
     public static void main(String[] args) {
         // operadores aritméticos
         int a = 10;
@@ -42,3 +42,4 @@ public class Operadores{
 
     }
 } 
+*/
