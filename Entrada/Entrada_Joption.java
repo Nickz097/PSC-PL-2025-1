@@ -1,4 +1,5 @@
-import javax.swing.JOptionPane; 
+/*
+ import javax.swing.JOptionPane; 
 
     public class Entrada_Joption { 
         public static void main(String[] args) {
@@ -14,3 +15,4 @@ JOptionPane.showMessageDialog(null,"Olá, meu nome é " + nome + " tenho " + ida
         }
 }
 
+*/

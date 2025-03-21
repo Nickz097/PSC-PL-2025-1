@@ -1,4 +1,4 @@
-class Main {
+/* class Main {
     public static void main(String[] args) {
      pessoa individuo1 = new pessoa();
      pessoa individuo2 = new pessoa();
@@ -13,3 +13,4 @@ individuo2.nome = "maria";
  //System.out.println("individuo 2 " + individuo2.nome);
     }
 }
+*/

@@ -1,4 +1,4 @@
-class pessoa {
+/* class pessoa {
     private double peso;
     private double altura;
     private int idade;
@@ -30,4 +30,4 @@ class pessoa {
     }   
 
 }
-
+*/
